@@ -30,6 +30,9 @@ desktop.ini
 # Claude Code
 .claude/
 
+# Tutoriales
+.tutoriales/
+
 # Outputs / artifacts
 *.log
 *.tmp
